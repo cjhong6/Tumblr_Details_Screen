@@ -8,7 +8,7 @@ Time spent: **5** hours spent in total
 
 The following **required** user stories are complete:
 
-- [ ] User can tab an image to view a larger image in a detail view (5pts)
+- [x] User can tab an image to view a larger image in a detail view (5pts)
 
 The following **stretch** user stories are implemented:
 
@@ -29,7 +29,8 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![demo](https://user-images.githubusercontent.com/15274466/45336624-3e6e9d00-b539-11e8-8359-8f3b01c32e43.gif)
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
